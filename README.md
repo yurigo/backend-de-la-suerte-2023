@@ -3,6 +3,9 @@
 
 > Desafío de programación dividido en tres retos donde los participantes tendrán que trabajar con el backend que les toque en suerte, aunque podrán elegir el lenguaje de programación con el que quieren trabajar. 
 
+![backenddelasuerte2023](https://user-images.githubusercontent.com/1122071/223094282-d3db3828-60df-45d8-9723-acb41c4f8ec5.jpeg)
+
+
 
 Bienvenid@s a un nuevo reto de programación de la comunidad malandriner.
 
