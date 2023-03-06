@@ -13,7 +13,7 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
 
 ## Participantes
 
-👉 [Ver issues](https://github.com/malandrinersdev/backend-de-la-suerte/issues)
+👉 [Ver issues](https://github.com/webreactiva-devs/backend-de-la-suerte-2023/issues)
 
 | Nick | Backend | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
 | --- | --- | --- | --- | --- | --- | -- |
