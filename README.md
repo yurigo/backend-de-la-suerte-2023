@@ -124,4 +124,6 @@ _(Cocinándose hasta el 16 de Marzo, ese día lo conoceremos)_
 
 &nbsp;
 
-## Reto 3: (cocinándose)
+## Reto 3: 
+
+_(Cocinándose a fuego lento hasta el 23 de Marzo)_
