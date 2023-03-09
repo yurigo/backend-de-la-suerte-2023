@@ -80,7 +80,7 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 
 &nbsp;
 
-![image](https://user-images.githubusercontent.com/1122071/223962368-d61a9edc-8d32-41b9-a9ab-2a7cbe336941.png)
+![6409974cce829832393392](https://user-images.githubusercontent.com/1122071/223962884-3ed576cc-cd23-48fd-b543-00c2489bb4cb.gif)
 
 
 ## Reto 1: xxx
