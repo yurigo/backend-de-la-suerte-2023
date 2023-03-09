@@ -111,6 +111,10 @@ En el segundo reto haremos más cosas con esto, no te aceleres, que los zombies 
 - 20 puntos si entregas el resultado antes del día 16 de Marzo (inclusive)
 - 10 puntos si lo entregas después
 
+### ¿Qué pasa si el backend que me ha tocado no funciona?
+
+Habla con Dani ;)
+
 &nbsp;
 
 ------------
