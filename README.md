@@ -17,7 +17,21 @@ Propondremos 3 retos en 3 semanas y remataremos con una sesión en directo prime
 
 | Nick | Backend | Reto 1 | Reto 2 | Reto 3 | Directo | Total |
 | --- | --- | --- | --- | --- | --- | -- |
-|  |  |  |  |  |  |  |
+| Karlos | Xata |  |  |  |  |  |
+| José Ángel Martínez | Cloudflare D1 |  |  |  |  |  |
+| José Manuel Gómez | CockroachDB |  |  |  |  |  |
+| Sergi Edo | Troleado |  |  |  |  |  |
+| Imanol Valero | Planetscale |  |  |  |  |  |
+| Yuri | SurrealDB |  |  |  |  |  |
+| Alfredo | EdgeDB |  |  |  |  |  |
+| David Galisteo | Pocketbase |  |  |  |  |  |
+| SergioPb | Xata |  |  |  |  |  |
+| Andrés Cabrera QuieroMiTaza | FaunaDB |  |  |  |  |  |
+| Borja	 | Troleado |  |  |  |  |  |
+| Cesar Octavio Delgado | KeyDB |  |  |  |  |  |
+| Ramón Ruiz | Pocketbase |  |  |  |  |  |
+| Oliver | Cloudflare D1 |  |  |  |  |  |
+
 
 
 &nbsp;
@@ -77,6 +91,22 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 2. Trabaja contra ese repositorio de forma independiente, NO haremos uso del PR para unir las soluciones, las publicaremos como parte de este Readme
 3. La solución debe tener el código público para que podamos verla.
 4. Con cada reto tendrás que enviar una [Issue](https://github.com/webreactiva-devs/backend-de-la-suerte-2023/issues) indicando la dirección del repositorio con la solución
+
+------------
+
+&nbsp;
+
+### #TeamTroleado
+
+Un Zombie ha entrado en la cocina y se ha merendado la terminal. La confundió con un cerebro, menudo trol tolai...
+
+Así que los "troleados" tenéis que resolver el desafío con estas condiciones de emergencia:
+
+- Solo podéis utilizar un fichero de texto plano con extensión .menu
+- No podéis utilizar ninguna base de datos ni API externa para el almacenamiento
+- No podéis usar ni CSV, JSON, YAML... Ni ningún otro formato conocido
+- No podéis usar variables serializadas con las herramientas de vuestro código
+- Quizás aparezca alguna condición más ;)
 
 ------------
 
