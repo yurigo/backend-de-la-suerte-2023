@@ -130,3 +130,13 @@ _(Cocinándose hasta el 16 de Marzo, ese día lo conoceremos)_
 ## Reto 3: 
 
 _(Cocinándose a fuego lento hasta el 23 de Marzo)_
+
+&nbsp;
+
+------------
+
+&nbsp;
+
+## Directo (30 de Marzo): 
+
+- 20 puntos más si presentas tus soluciones en directo
