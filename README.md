@@ -45,7 +45,7 @@ Tu misión va a ser crear un buen sistema para que cuando pidan su menú no se e
 
 Se trata de trabajar con las herramientas que más te gusten y solo una impuesta: el backend.
 
-🔴 No es olbigatorio crear un frontend. Puede ser una API o cualquier otro sistema que te permita trabajar con el backend que no sea el proporcionado por el mismo backend.
+🔴 No es olbigatorio crear un frontend. Puede ser una API o cualquier otro sistema que te permita trabajar con el backend que no sea el el mismo backend.
 
 🔴 Puedes utilizar el lenguaje o plataforma que quieras para conectarte a tu backend y crear la aplicación.
 
