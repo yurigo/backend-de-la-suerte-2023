@@ -80,6 +80,9 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 
 &nbsp;
 
+![image](https://user-images.githubusercontent.com/1122071/223962368-d61a9edc-8d32-41b9-a9ab-2a7cbe336941.png)
+
+
 ## Reto 1: xxx
 
 Te ha tocado un backend en suerte y tienes que ponerlo a trabajar.
