@@ -45,10 +45,9 @@ Tu misión va a ser crear un buen sistema para que cuando pidan su menú no se e
 
 Se trata de trabajar con las herramientas que más te gusten y solo una impuesta: el backend.
 
-🔴 No es olbigatorio crear un frontend. Puede ser una API o cualquier otro sistema que te permita trabajar con el backend.
+🔴 No es olbigatorio crear un frontend. Puede ser una API o cualquier otro sistema que te permita trabajar con el backend que no sea el proporcionado por el mismo backend.
 
-🔴 Puedes utilizar el lenguaje o plataforma que quieras para conectarte a tu backend.
-
+🔴 Puedes utilizar el lenguaje o plataforma que quieras para conectarte a tu backend y crear la aplicación.
 
 ### Punto de inicio
 
@@ -74,7 +73,8 @@ Al ser esta una prueba donde cada uno puede realizar el ejercicio como quiera lo
 
 1. Haz un fork de este repositorio si quieres
 2. Trabaja contra ese repositorio de forma independiente, NO haremos uso del PR para unir las soluciones, las publicaremos como parte de este Readme
-3. Con cada reto tendrás que enviar una [Issue](https://github.com/webreactiva-devs/backend-de-la-suerte-2023/issues) indicando la dirección del repositorio con la solución
+3. La solución debe tener el código público para que podamos verla.
+4. Con cada reto tendrás que enviar una [Issue](https://github.com/webreactiva-devs/backend-de-la-suerte-2023/issues) indicando la dirección del repositorio con la solución
 
 ------------
 
