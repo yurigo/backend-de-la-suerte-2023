@@ -45,6 +45,8 @@ Tu misión va a ser crear un buen sistema para que cuando pidan su menú no se e
 
 Se trata de trabajar con las herramientas que más te gusten y solo una impuesta: el backend.
 
+🔴 No es necesario pagar por los backends. La parte gratuita debería ser suficiente para usarla en el desafío.
+
 🔴 No es olbigatorio crear un frontend. Puede ser una API o cualquier otro sistema que te permita trabajar con el backend que no sea el el mismo backend.
 
 🔴 Puedes utilizar el lenguaje o plataforma que quieras para conectarte a tu backend y crear la aplicación.
