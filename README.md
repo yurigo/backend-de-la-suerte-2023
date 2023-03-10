@@ -115,7 +115,7 @@ Así que los "troleados" tenéis que resolver el desafío con estas condiciones 
 ![6409974cce829832393392](https://user-images.githubusercontent.com/1122071/223962884-3ed576cc-cd23-48fd-b543-00c2489bb4cb.gif)
 
 
-## Reto 1: xxx
+## Reto 1: Hasta loz zombies tienen cerebro
 
 Te ha tocado un backend en suerte y tienes que ponerlo a trabajar.
 
