@@ -1,0 +1,38 @@
+<div class="flex">
+  <button
+    id="all"
+    class="last relative p-0.5 inline-flex items-center justify-center font-bold overflow-hidden group rounded-md active:scale-95 w-full"
+  >
+    <span
+      class="w-full h-full bg-gradient-to-br from-[#ff8a05] via-[#ff5478] to-[#ff00c6] group-hover:from-[#ff00c6] group-hover:via-[#ff5478] group-hover:to-[#ff8a05] absolute"
+    ></span>
+    <span
+      class="relative px-6 py-3 transition-all ease-out bg-gray-900 rounded-md group-hover:bg-opacity-0 duration-400 w-full"
+    >
+      <span class="relative text-white"><slot /></span>
+    </span>
+  </button>
+</div>
+
+<script>
+  const button = document.querySelector("#all");
+  const result = document.querySelector("#result");
+
+  const clickHandler = async () => {
+    button.classList.toggle("disabled");
+    const response = await fetch("/api/comanda/all");
+    const data = await response.json();
+    button.classList.toggle("disabled");
+    console.log(data);
+    result.innerHTML = JSON.stringify(data, null, 2);
+  };
+
+  button.addEventListener("click", clickHandler);
+</script>
+
+<style>
+  .disabled {
+    pointer-events: none;
+    opacity: 0.5;
+  }
+</style>

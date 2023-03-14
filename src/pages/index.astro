@@ -1,0 +1,36 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Comanda from "../components/Comanda.astro";
+import Last from "../components/Last.astro";
+import Result from "../components/Result.astro";
+import All from "../components/All.astro";
+---
+
+<Layout title="Zombie's dinner">
+  <main>
+    <h1 class="text-6xl text-center mb-10">
+      🧟‍♂️<span class="text-gradient"> Zombie's dinner</span>🧟‍♂️
+    </h1>
+
+    <p></p>
+
+    <div class="flex gap-5">
+      <div class="flex flex-col gap-3">
+        <Comanda>COMANDA!!!</Comanda>
+        <Last>LAST!!!</Last>
+        <All>ALL!!!</All>
+      </div>
+      <div class="w-full h-full min-h-[300px]">
+        <Result>RESULT!!!</Result>
+      </div>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  main {
+    margin: auto;
+    padding: 1.5rem;
+    max-width: 120ch;
+  }
+</style>
