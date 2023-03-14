@@ -24,7 +24,10 @@
     const data = await response.json();
     button.classList.toggle("disabled");
     console.log(data);
-    result.innerHTML = JSON.stringify(data, null, 2);
+
+    const comanda = data;
+    comanda["es-ES"] = new Date(comanda.at).toLocaleString("es-ES");
+    result.innerHTML = JSON.stringify(comanda, null, 2);
   };
 
   button.addEventListener("click", clickHandler);
