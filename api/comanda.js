@@ -6,8 +6,8 @@ const db = new Surreal("https://surrealdb-outl.onrender.com/rpc");
 
 export default async function handler(req, res) {
   await db.signin({
-    user: process.env.user,
-    pass: process.env.password,
+    user: process.env.USER,
+    pass: process.env.PASSWORD,
   });
 
   // Select a specific namespace / database
